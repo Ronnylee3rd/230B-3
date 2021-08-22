@@ -1,0 +1,4 @@
+#!/bin/bash
+#My first git script
+
+Echo "Hello Git World!"
